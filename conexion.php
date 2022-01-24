@@ -1,9 +1,9 @@
 <?php
 
 $server = "localhost";
-$usuario = "luis";
-$pass = "bAF%rzu@&w7D";//"456s789q21da";
-$bd = "luis_crono_uca";//"luis_IVB_2016";
+$usuario = "YOUR_USER";
+$pass = "YOUR_USER_PASS";
+$bd = "YOUR_DB_NAME";
 
 $con = new mysqli($server, $usuario, $pass, $bd);
 
