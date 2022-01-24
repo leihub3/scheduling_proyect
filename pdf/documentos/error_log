@@ -1,0 +1,81 @@
+[08-Oct-2016 21:47:06 America/Buenos_Aires] PHP Warning:  set_time_limit() [<a href='function.set-time-limit'>function.set-time-limit</a>]: Cannot set time limit in safe mode in /home3/lisaia/public_html/crono_uca/pdf/html2pdf.class.php on line 12
+[08-Oct-2016 21:47:09 America/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/lisaia/public_html/crono_uca/pdf/html2pdf.class.php:12) in /home3/lisaia/public_html/crono_uca/pdf/_tcpdf_5.0.002/tcpdf.php on line 6122
+[08-Oct-2016 21:48:12 America/Buenos_Aires] PHP Warning:  set_time_limit() [<a href='function.set-time-limit'>function.set-time-limit</a>]: Cannot set time limit in safe mode in /home3/lisaia/public_html/crono_uca/pdf/html2pdf.class.php on line 12
+[08-Oct-2016 21:48:14 America/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/lisaia/public_html/crono_uca/pdf/html2pdf.class.php:12) in /home3/lisaia/public_html/crono_uca/pdf/_tcpdf_5.0.002/tcpdf.php on line 6122
+[08-Oct-2016 21:48:32 America/Buenos_Aires] PHP Warning:  set_time_limit() [<a href='function.set-time-limit'>function.set-time-limit</a>]: Cannot set time limit in safe mode in /home3/lisaia/public_html/crono_uca/pdf/html2pdf.class.php on line 12
+[08-Oct-2016 21:48:35 America/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/lisaia/public_html/crono_uca/pdf/html2pdf.class.php:12) in /home3/lisaia/public_html/crono_uca/pdf/_tcpdf_5.0.002/tcpdf.php on line 6122
+[08-Oct-2016 21:49:48 America/Buenos_Aires] PHP Warning:  set_time_limit() [<a href='function.set-time-limit'>function.set-time-limit</a>]: Cannot set time limit in safe mode in /home3/lisaia/public_html/crono_uca/pdf/html2pdf.class.php on line 12
+[08-Oct-2016 21:49:51 America/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/lisaia/public_html/crono_uca/pdf/html2pdf.class.php:12) in /home3/lisaia/public_html/crono_uca/pdf/_tcpdf_5.0.002/tcpdf.php on line 6122
+[21-Oct-2016 10:12:59 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 13:04:00 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 13:05:39 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 13:06:23 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 13:07:48 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 13:14:36 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 13:18:11 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 13:19:01 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 13:20:33 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 13:22:18 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 13:24:27 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 13:27:14 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 13:28:07 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 13:56:40 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 13:59:39 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 14:00:53 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 14:02:25 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 14:03:24 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '"' in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 2
+[21-Oct-2016 14:03:53 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 2
+[21-Oct-2016 14:05:37 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '"' in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 14:18:45 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '"' in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 2
+[21-Oct-2016 14:19:18 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 2
+[21-Oct-2016 14:19:49 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 2
+[21-Oct-2016 14:20:18 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 14:20:48 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[21-Oct-2016 14:21:29 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 4
+[21-Oct-2016 14:21:57 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 4
+[21-Oct-2016 14:21:59 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '"' in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 2
+[21-Oct-2016 14:22:29 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 2
+[21-Oct-2016 14:23:10 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 4
+[26-May-2020 13:09:51 America/Argentina/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home10/luis/public_html/crono_uca/pdf/documentos/res/ver_cronograma_html.php on line 3
+[26-May-2020 13:10:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home10/luis/public_html/crono_uca/pdf/documentos/res/ver_cronograma_periodo_html.php on line 3
+[26-May-2020 13:11:38 America/Argentina/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home10/luis/public_html/crono_uca/pdf/documentos/res/ver_cronograma_html.php on line 3
+[26-May-2020 13:41:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: anio in /home10/luis/public_html/crono_uca/pdf/documentos/res/ver_cronograma_html.php on line 64
+[26-May-2020 13:41:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: semestre in /home10/luis/public_html/crono_uca/pdf/documentos/res/ver_cronograma_html.php on line 64
+[26-May-2020 13:50:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: anio in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 13:50:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 13:50:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: anio in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 13:50:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 13:52:15 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: anio in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 13:52:15 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 13:53:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: anio in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 13:53:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:07:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: anio in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:07:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:08:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: anio in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:08:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:10:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: anio in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:10:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:11:30 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:11:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:12:04 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:12:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:14:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:18:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:19:30 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:19:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:20:03 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:20:42 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[26-May-2020 14:21:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[01-Jun-2020 09:27:42 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[01-Jun-2020 09:27:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[01-Jun-2020 09:27:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[01-Jun-2020 09:27:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[01-Jun-2020 09:28:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[01-Jun-2020 11:01:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[01-Jun-2020 11:01:06 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[01-Jun-2020 11:01:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[01-Jun-2020 11:01:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[01-Jun-2020 11:01:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[01-Jun-2020 12:31:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[09-Jun-2020 11:06:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/pdf/documentos/ver_cronograma_periodo.php on line 25
+[09-Jun-2021 19:40:33 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: color in /home10/luis/public_html/crono_uca/funciones.php on line 21

@@ -1,0 +1,564 @@
+[20-Oct-2016 20:07:39 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected $end in /home3/lisaia/public_html/crono_uca/materias.php on line 354
+[20-Oct-2016 20:32:01 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 3958
+[21-Oct-2016 10:08:07 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected T_NS_SEPARATOR in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 33
+[21-Oct-2016 10:16:13 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 30
+[21-Oct-2016 10:17:12 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 30
+[21-Oct-2016 10:18:23 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 35
+[21-Oct-2016 10:18:57 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 35
+[21-Oct-2016 10:22:23 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 35
+[21-Oct-2016 10:23:27 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 35
+[21-Oct-2016 12:40:30 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 3
+[21-Oct-2016 13:08:35 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_STRING in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 69
+[17-Nov-2016 13:25:49 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected T_ECHO in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 65
+[15-Dec-2016 11:44:32 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 3
+[15-Dec-2016 11:45:20 America/Buenos_Aires] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 2
+[15-Dec-2016 11:45:20 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 3
+[15-Dec-2016 11:45:57 America/Buenos_Aires] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 3
+[15-Dec-2016 11:45:57 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 4
+[15-Dec-2016 11:48:48 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 4
+[15-Dec-2016 11:50:14 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '"' in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 3
+[15-Dec-2016 11:52:16 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '"' in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 3
+[15-Dec-2016 11:52:34 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 4
+[15-Dec-2016 11:53:08 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 4
+[15-Dec-2016 11:53:53 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 55
+[15-Dec-2016 11:55:14 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 55
+[15-Dec-2016 11:55:17 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 55
+[15-Dec-2016 12:39:12 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 4
+[15-Dec-2016 12:39:36 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 4
+[15-Dec-2016 12:39:56 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 4
+[15-Dec-2016 12:40:31 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 4
+[15-Dec-2016 12:40:40 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 4
+[15-Dec-2016 12:40:54 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 4
+[15-Dec-2016 12:41:04 America/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 4
+[15-Dec-2016 12:52:01 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected $end in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 4794
+[15-Dec-2016 12:53:58 America/Buenos_Aires] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 20
+[15-Dec-2016 12:53:58 America/Buenos_Aires] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home3/lisaia/public_html/crono_uca/cronogramas_periodo.php on line 21
+[25-Sep-2019 10:48:36 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 11
+[25-Sep-2019 10:48:36 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 17
+[25-Sep-2019 10:48:36 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 57
+[26-Sep-2019 10:47:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 20
+[26-Sep-2019 10:47:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 341
+[26-Sep-2019 10:47:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 463
+[26-Sep-2019 10:47:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-Sep-2019 10:47:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias_periodo.php on line 324
+[26-Sep-2019 10:47:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias_periodo.php on line 446
+[26-Sep-2019 10:48:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 20
+[26-Sep-2019 10:48:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 341
+[26-Sep-2019 10:48:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 463
+[26-Sep-2019 10:48:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[27-Sep-2019 12:00:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 11
+[27-Sep-2019 12:00:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 17
+[27-Sep-2019 12:00:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 57
+[27-Sep-2019 12:06:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 20
+[27-Sep-2019 12:06:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 341
+[27-Sep-2019 12:06:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 463
+[27-Sep-2019 12:06:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[30-Sep-2019 13:48:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 20
+[30-Sep-2019 13:48:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 341
+[30-Sep-2019 13:48:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 463
+[30-Sep-2019 13:48:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[31-Oct-2019 11:53:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[31-Oct-2019 11:54:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[31-Oct-2019 11:54:38 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home10/luis/public_html/crono_uca/copia_masiva.php on line 24
+[31-Oct-2019 12:00:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[31-Oct-2019 12:01:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[31-Oct-2019 12:01:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[31-Oct-2019 12:02:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[31-Oct-2019 12:03:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[31-Oct-2019 12:10:30 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[31-Oct-2019 13:17:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[31-Oct-2019 14:15:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Nov-2019 23:03:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 11
+[01-Nov-2019 23:03:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 17
+[01-Nov-2019 23:03:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 57
+[01-Nov-2019 23:04:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Nov-2019 23:06:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[02-Nov-2019 00:12:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 11
+[02-Nov-2019 00:12:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 17
+[02-Nov-2019 00:12:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 57
+[02-Nov-2019 11:44:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[02-Nov-2019 11:54:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[02-Nov-2019 13:39:12 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 82
+[02-Nov-2019 13:46:04 America/Argentina/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 85
+[04-Nov-2019 14:02:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Nov-2019 14:03:24 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Nov-2019 14:12:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Nov-2019 14:20:28 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[04-Nov-2019 14:20:28 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[04-Nov-2019 14:20:30 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[04-Nov-2019 14:20:56 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[04-Nov-2019 14:20:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Nov-2019 14:23:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Nov-2019 14:54:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Nov-2019 15:40:59 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[04-Nov-2019 15:41:30 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[07-Nov-2019 12:37:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[07-Nov-2019 12:43:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[07-Nov-2019 12:44:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Nov-2019 21:04:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Nov-2019 21:05:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Nov-2019 21:07:42 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Nov-2019 10:52:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Nov-2019 10:58:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Nov-2019 10:59:04 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Nov-2019 10:59:24 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home10/luis/public_html/crono_uca/copia_masiva.php on line 24
+[12-Nov-2019 10:59:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Nov-2019 10:59:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Nov-2019 11:29:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Nov-2019 12:50:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Nov-2019 12:31:33 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Nov-2019 12:32:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Nov-2019 13:00:33 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 77
+[16-Nov-2019 09:45:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 09:48:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:03:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:06:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:07:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:08:15 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:13:15 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:18:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:18:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:19:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:20:41 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:27:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:28:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:29:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:33:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:33:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:34:08 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[16-Nov-2019 10:48:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:48:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:48:58 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[16-Nov-2019 10:49:31 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[16-Nov-2019 10:53:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:54:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 79
+[16-Nov-2019 10:54:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 145
+[16-Nov-2019 10:55:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 10:55:31 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 79
+[16-Nov-2019 10:55:31 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 145
+[16-Nov-2019 10:56:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 79
+[16-Nov-2019 10:56:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 145
+[16-Nov-2019 10:57:04 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[16-Nov-2019 10:57:26 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[16-Nov-2019 10:57:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 79
+[16-Nov-2019 10:57:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 145
+[16-Nov-2019 10:58:35 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 62
+[16-Nov-2019 10:59:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 77
+[16-Nov-2019 10:59:29 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[16-Nov-2019 12:50:35 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 12:54:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 12:57:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 12:57:34 America/Argentina/Buenos_Aires] PHP Fatal error:  Cannot break/continue 1 level in /home10/luis/public_html/crono_uca/copia_masiva.php on line 6
+[16-Nov-2019 12:57:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 12:59:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 13:00:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 13:01:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 79
+[16-Nov-2019 13:01:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 145
+[16-Nov-2019 13:01:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 13:02:10 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[16-Nov-2019 13:04:41 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 13:04:58 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[16-Nov-2019 13:05:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 13:05:53 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[16-Nov-2019 13:07:02 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[16-Nov-2019 13:07:35 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[16-Nov-2019 13:11:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 13:11:15 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[16-Nov-2019 13:12:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 13:12:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: tab_lunes in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 361
+[16-Nov-2019 13:12:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: tab_martes in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 362
+[16-Nov-2019 13:12:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: tab_miercoles in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 363
+[16-Nov-2019 13:12:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: tab_jueves in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 364
+[16-Nov-2019 13:12:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: tab_viernes in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 365
+[16-Nov-2019 13:12:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: titulo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 393
+[16-Nov-2019 13:13:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 13:15:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 13:16:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Nov-2019 13:16:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Dec-2019 14:22:04 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[13-Dec-2019 17:40:31 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Dec-2019 13:55:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Dec-2019 14:00:06 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[17-Dec-2019 16:31:41 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[19-Dec-2019 17:17:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[19-Dec-2019 17:19:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[19-Dec-2019 17:22:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[19-Dec-2019 17:24:03 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 79
+[19-Dec-2019 17:24:03 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 145
+[19-Dec-2019 17:30:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[19-Dec-2019 17:37:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[20-Dec-2019 07:48:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[20-Dec-2019 10:14:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Dec-2019 07:32:06 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Dec-2019 07:33:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 79
+[23-Dec-2019 07:33:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 145
+[23-Dec-2019 07:45:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Dec-2019 07:54:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Dec-2019 07:57:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Dec-2019 08:14:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Dec-2019 08:18:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Dec-2019 09:18:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Dec-2019 09:19:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Dec-2019 09:48:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-Dec-2019 15:03:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-Dec-2019 15:06:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-Dec-2019 15:07:50 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-Dec-2019 15:27:06 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-Dec-2019 15:42:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-Dec-2019 17:03:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[27-Dec-2019 15:07:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[27-Dec-2019 15:09:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Feb-2020 14:41:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Feb-2020 14:41:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Feb-2020 14:45:03 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Feb-2020 14:50:42 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Feb-2020 15:02:33 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Feb-2020 15:18:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Feb-2020 15:34:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Feb-2020 15:35:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Feb-2020 15:36:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Feb-2020 15:37:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Feb-2020 16:06:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Feb-2020 16:07:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Feb-2020 16:32:50 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[02-Feb-2020 18:51:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[03-Feb-2020 10:21:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[03-Feb-2020 17:25:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[03-Feb-2020 22:54:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[03-Feb-2020 23:02:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Feb-2020 15:35:30 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Feb-2020 16:27:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Feb-2020 16:42:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Feb-2020 16:44:41 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Feb-2020 16:50:36 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Feb-2020 17:34:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Feb-2020 17:40:24 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Feb-2020 15:34:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Feb-2020 15:38:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Feb-2020 15:49:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2020 07:42:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2020 07:43:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2020 07:45:42 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2020 07:48:36 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2020 07:49:45 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2020 09:59:36 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2020 10:01:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2020 10:06:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2020 10:09:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2020 10:12:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2020 10:17:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2020 10:18:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2020 10:24:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2020 10:50:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[13-Feb-2020 11:17:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 79
+[13-Feb-2020 11:17:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 145
+[13-Feb-2020 11:18:02 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[17-Feb-2020 08:41:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[18-Feb-2020 09:30:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[20-Feb-2020 15:20:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[20-Feb-2020 15:50:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[20-Feb-2020 17:36:28 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[21-Feb-2020 09:43:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 77
+[21-Feb-2020 11:51:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[21-Feb-2020 11:57:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[21-Feb-2020 14:08:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[21-Feb-2020 14:40:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[21-Feb-2020 17:08:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[21-Feb-2020 17:11:30 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[21-Feb-2020 17:13:30 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[21-Feb-2020 18:09:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[21-Feb-2020 18:14:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[21-Feb-2020 18:15:04 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[21-Feb-2020 18:31:36 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[27-Feb-2020 09:38:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 77
+[27-Feb-2020 09:38:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 79
+[27-Feb-2020 09:38:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 145
+[27-Feb-2020 09:55:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[27-Feb-2020 11:15:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[27-Feb-2020 11:56:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[03-Mar-2020 07:54:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Mar-2020 06:12:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Mar-2020 08:54:07 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[04-Mar-2020 14:15:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Mar-2020 11:38:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 77
+[09-Mar-2020 14:20:46 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[09-Mar-2020 14:30:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 77
+[09-Mar-2020 14:30:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 79
+[09-Mar-2020 14:30:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 145
+[09-Mar-2020 14:42:41 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Mar-2020 14:42:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 79
+[09-Mar-2020 14:42:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 145
+[11-Mar-2020 10:34:06 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[11-Mar-2020 10:48:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Mar-2020 14:48:25 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[12-Mar-2020 09:33:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Mar-2020 14:14:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Mar-2020 15:08:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Mar-2020 10:50:45 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 10:06:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 10:18:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 10:19:31 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 10:31:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 10:34:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 10:35:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 10:58:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 10:58:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 11:00:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 11:52:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 11:53:00 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home10/luis/public_html/crono_uca/copia_masiva.php on line 25
+[26-May-2020 13:00:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 13:01:28 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 13:02:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 13:06:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 13:08:42 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 13:27:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 13:42:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 13:42:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 13:44:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 13:47:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 13:59:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 14:00:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 14:01:28 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 14:02:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 14:03:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 14:04:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 14:05:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 14:08:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 14:40:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 14:41:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 15:05:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 15:13:03 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 15:15:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 15:15:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 15:19:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 15:24:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 15:36:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[26-May-2020 15:43:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Jun-2020 10:49:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Jun-2020 10:52:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Jun-2020 10:52:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Jun-2020 11:00:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Jun-2020 11:02:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Jun-2020 12:25:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Jun-2020 12:30:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Jun-2020 12:30:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[01-Jun-2020 12:31:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[02-Jun-2020 15:08:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 79
+[02-Jun-2020 15:08:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 145
+[09-Jun-2020 10:52:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[03-Jul-2020 12:11:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[03-Jul-2020 12:14:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[20-Jul-2020 12:09:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[20-Jul-2020 12:10:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[22-Jul-2020 11:46:33 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Jul-2020 11:28:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Jul-2020 11:29:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Jul-2020 13:40:30 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Jul-2020 13:45:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Jul-2020 14:39:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Jul-2020 14:40:03 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Jul-2020 14:40:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Jul-2020 15:45:15 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 77
+[23-Jul-2020 15:45:15 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 226
+[23-Jul-2020 15:45:15 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 385
+[23-Jul-2020 16:00:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Jul-2020 16:30:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 77
+[23-Jul-2020 16:30:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 226
+[23-Jul-2020 16:30:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 385
+[24-Jul-2020 12:44:36 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[28-Jul-2020 12:31:28 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 77
+[28-Jul-2020 12:31:28 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 226
+[28-Jul-2020 12:31:28 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 385
+[28-Jul-2020 15:50:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[30-Jul-2020 11:41:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[30-Jul-2020 11:42:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[30-Jul-2020 15:07:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Aug-2020 12:25:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 77
+[14-Aug-2020 12:25:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 226
+[14-Aug-2020 12:25:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 385
+[22-Nov-2020 00:47:31 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[22-Nov-2020 00:47:49 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home10/luis/public_html/crono_uca/copia_masiva.php on line 25
+[04-Dec-2020 11:15:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Dec-2020 11:17:04 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Dec-2020 11:51:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Feb-2021 11:39:30 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Feb-2021 11:59:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Feb-2021 12:02:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Feb-2021 12:11:24 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Feb-2021 12:14:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Feb-2021 12:17:50 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Feb-2021 12:19:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Feb-2021 12:21:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Feb-2021 12:23:42 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Feb-2021 12:26:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2021 14:35:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2021 14:35:50 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[11-Feb-2021 14:42:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Feb-2021 09:18:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Feb-2021 09:28:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Feb-2021 09:45:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Feb-2021 09:49:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Feb-2021 09:51:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Feb-2021 09:55:24 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Feb-2021 09:56:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Feb-2021 09:57:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Feb-2021 10:10:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Feb-2021 10:10:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Feb-2021 10:23:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Feb-2021 10:37:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Feb-2021 10:44:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Feb-2021 10:46:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Feb-2021 10:47:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[12-Feb-2021 11:12:36 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[13-Feb-2021 14:58:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[13-Feb-2021 15:03:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[18-Feb-2021 17:17:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[18-Feb-2021 17:40:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[19-Feb-2021 11:33:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[19-Feb-2021 11:36:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[19-Feb-2021 11:45:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[19-Feb-2021 11:45:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[19-Feb-2021 12:13:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[22-Feb-2021 13:29:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[05-Mar-2021 10:54:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[05-Mar-2021 11:00:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[05-Mar-2021 11:02:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Mar-2021 13:32:45 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[10-Mar-2021 13:33:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Apr-2021 12:25:30 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Apr-2021 12:27:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[19-Apr-2021 08:41:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 77
+[19-Apr-2021 08:41:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 226
+[19-Apr-2021 08:41:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 385
+[24-Apr-2021 21:30:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[28-Apr-2021 10:51:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[21-May-2021 12:09:42 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 10:18:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 10:42:35 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home10/luis/public_html/crono_uca/copia_masiva.php on line 25
+[09-Jun-2021 10:42:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 10:43:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 10:49:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 10:51:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 10:52:03 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 10:52:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 10:54:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 19:39:45 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 20:00:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 20:02:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 20:06:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 20:08:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 20:09:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 20:16:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 20:21:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 20:25:42 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 21:11:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 21:12:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 21:46:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[09-Jun-2021 21:50:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 79
+[09-Jun-2021 21:50:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 145
+[14-Jun-2021 10:21:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Jun-2021 10:28:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Jun-2021 10:40:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Jun-2021 10:46:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Jun-2021 10:55:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Jun-2021 15:07:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Jun-2021 15:13:45 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Jun-2021 15:19:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Jun-2021 15:24:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Jun-2021 15:25:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Jun-2021 15:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Jun-2021 15:33:41 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Jun-2021 15:34:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Jun-2021 15:47:04 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[14-Jun-2021 15:50:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Jun-2021 10:06:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Jun-2021 10:12:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Jun-2021 12:29:28 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Jun-2021 16:19:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[17-Jun-2021 08:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[21-Jun-2021 14:50:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[21-Jun-2021 14:51:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[21-Jun-2021 15:00:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[05-Jul-2021 10:14:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Jul-2021 10:40:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 77
+[16-Jul-2021 10:40:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 226
+[16-Jul-2021 10:40:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 385
+[16-Jul-2021 10:41:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 77
+[16-Jul-2021 10:41:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 226
+[16-Jul-2021 10:41:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 385
+[16-Jul-2021 10:42:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[16-Jul-2021 12:03:18 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[16-Jul-2021 12:03:19 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[16-Jul-2021 12:03:21 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[16-Jul-2021 12:53:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 77
+[16-Jul-2021 12:53:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: cursos in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 79
+[16-Jul-2021 12:53:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: curso in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 145
+[16-Jul-2021 12:53:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 226
+[16-Jul-2021 12:53:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 385
+[16-Jul-2021 14:39:03 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[16-Jul-2021 15:02:32 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Invalid arguments passed in /home10/luis/public_html/crono_uca/cronogramas_periodo.php on line 83
+[02-Aug-2021 13:41:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 20
+[02-Aug-2021 13:41:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 341
+[02-Aug-2021 13:41:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 463
+[02-Aug-2021 13:41:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[02-Aug-2021 13:41:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias_periodo.php on line 324
+[02-Aug-2021 13:41:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias_periodo.php on line 446
+[02-Aug-2021 13:42:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias_periodo.php on line 324
+[02-Aug-2021 13:42:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias_periodo.php on line 446
+[04-Aug-2021 16:28:06 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 20
+[04-Aug-2021 16:28:06 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 341
+[04-Aug-2021 16:28:06 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 463
+[04-Aug-2021 16:28:06 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[04-Aug-2021 16:28:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias_periodo.php on line 324
+[04-Aug-2021 16:28:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias_periodo.php on line 446
+[19-Aug-2021 17:54:50 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 20
+[19-Aug-2021 17:54:50 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 341
+[19-Aug-2021 17:54:50 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 463
+[19-Aug-2021 17:54:50 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[19-Aug-2021 17:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias_periodo.php on line 324
+[19-Aug-2021 17:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias_periodo.php on line 446
+[19-Aug-2021 18:02:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 20
+[19-Aug-2021 18:02:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 341
+[19-Aug-2021 18:02:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 463
+[19-Aug-2021 18:02:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[19-Aug-2021 18:02:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias_periodo.php on line 324
+[19-Aug-2021 18:02:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias_periodo.php on line 446
+[23-Aug-2021 11:08:28 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 20
+[23-Aug-2021 11:08:28 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 341
+[23-Aug-2021 11:08:28 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias.php on line 463
+[23-Aug-2021 11:08:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Aug-2021 11:08:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias_periodo.php on line 324
+[23-Aug-2021 11:08:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: semestre in /home10/luis/public_html/crono_uca/materias_periodo.php on line 446
+[29-Oct-2021 00:10:50 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[13-Dec-2021 12:14:33 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[13-Dec-2021 12:15:06 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home10/luis/public_html/crono_uca/copia_masiva.php on line 25
+[13-Dec-2021 12:33:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[13-Dec-2021 12:36:45 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[13-Dec-2021 12:38:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[13-Dec-2021 14:59:35 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[13-Dec-2021 15:03:31 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[22-Dec-2021 08:40:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[22-Dec-2021 08:44:03 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[22-Dec-2021 08:45:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[22-Dec-2021 08:52:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[22-Dec-2021 08:54:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[22-Dec-2021 09:57:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[22-Dec-2021 10:17:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[22-Dec-2021 10:19:04 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[28-Dec-2021 10:46:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[29-Dec-2021 10:39:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[20-Jan-2022 10:08:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[23-Jan-2022 19:34:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[24-Jan-2022 01:00:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[24-Jan-2022 01:01:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[24-Jan-2022 01:09:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[24-Jan-2022 01:10:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[24-Jan-2022 01:12:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[24-Jan-2022 01:12:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[24-Jan-2022 01:15:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[24-Jan-2022 01:17:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[24-Jan-2022 01:17:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[24-Jan-2022 01:20:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[24-Jan-2022 01:22:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[24-Jan-2022 01:25:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
+[24-Jan-2022 01:27:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: periodo in /home10/luis/public_html/crono_uca/materias.php on line 490
